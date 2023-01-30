@@ -1,0 +1,115 @@
+@startuml
+
+skinparam class {
+  BackgroundColor #ebebeb
+  ArrowColor      #333
+  BorderColor     #000
+}
+
+skinparam lineType ortho
+
+package builtins {
+  class builtins.RuntimeError <<(X,#FFA659)>> {}
+}
+
+namespace md.python.dict {
+  interface MergeDictionaryInterface {
+    + merge(left: dict, right: dict) -> dict
+  }
+  class DefaultMergeDictionary implements MergeDictionaryInterface {
+    + merge(left: dict, right: dict) -> dict
+  }
+}
+
+namespace md.persistence {
+  interface LoadInterface {
+    + load(filename: str) -> Tuple[Any, GraphType]
+    + supports(filename: str) -> bool
+  }
+
+  interface DumpInterface {
+    + dump(filename: str, data: Any) -> None
+  }
+
+  interface ImportInterface {
+    + import_(content: dict, resource_list: List[Tuple[str, str]]) -> Tuple[dict, GraphType]
+  }
+
+  interface PersistenceExceptionInterface {}
+  class LoadException <<(X,#FFA659)>> extends builtins.RuntimeError implements PersistenceExceptionInterface {
+    + {static} IMPORT_ERROR = 1
+    ---
+    + code: int = 0
+    + path: str = None
+    ---
+    + {static} as_import_error(path: str = None, *, **) -> 'LoadException'
+    ---
+    + __init__(code: int = 0, path: str = None, *, **) -> None
+  }
+
+  class DumpException <<(X,#FFA659)>> extends builtins.RuntimeError implements PersistenceExceptionInterface {
+    + code: int = 0
+    + path: str = None
+    ---
+    + __init__(code: int = 0, path: str = None, *, **) -> None
+  }
+
+  class ImportException <<(X,#FFA659)>> extends builtins.RuntimeError implements PersistenceExceptionInterface {
+    + {static} NOT_EXISTS = 1
+    + {static} MERGE_ERROR = 2
+    + {static} RECURSION_ERROR = 3
+    ---
+    + {static} as_not_exists(path: str = None, *, **) -> 'ImportException'
+    + {static} as_merge(path: str = None, *, **) -> 'ImportException'
+    + {static} as_recursion_error(path: str = None, *, **) -> 'ImportException'
+    ---
+    + __init__(code: int = 0, path: str = None, *, **) -> None
+    ---
+    + code: int = 0
+    + path: str = None
+  }
+
+  class DefaultImport implements ImportInterface {
+    - load: LoadInterface
+    - merge_dictionary: md.python.dict.MergeDictionaryInterface
+    ---
+    + import_(content: dict, resource_list: List[Tuple[str, str]]) -> Tuple[Dict, GraphType]
+  }
+
+  DefaultImport *--> LoadInterface
+'  LoadInterface *--> ImportInterface
+
+  DefaultImport *-> md.python.dict.MergeDictionaryInterface
+
+  LoadInterface .. LoadException : "raises >"
+  DumpInterface .. DumpException : "raises >"
+  ImportInterface .. ImportException : "raises >"
+  ImportException .. LoadException : "leads >"
+}
+
+package md.persistence.yaml {
+  class PyYamlLoad implements md.persistence.LoadInterface {
+    - use_clean_import: bool
+    - use_dirty_import: bool
+    - import_: md.persistence.ImportInterface
+    ---
+    + supports(filename: str) -> bool
+    + load(filename: str) -> Tuple[Any, Dict[str, List[str]]]
+  }
+
+  class StrictYamlLoad implements md.persistence.LoadInterface {
+    - use_clean_import: bool
+    - use_dirty_import: bool
+    - import_: md.persistence.ImportInterface
+    ---
+    + supports(filename: str) -> bool
+    + load(filename: str) -> Tuple[Any, Dict[str, List[str]]]
+  }
+
+  PyYamlLoad ---- md.persistence.LoadException : "raises >"
+  StrictYamlLoad ---- md.persistence.LoadException : "raises >"
+  StrictYamlLoad *---> md.persistence.ImportInterface
+  PyYamlLoad *---> md.persistence.ImportInterface
+}
+
+@enduml

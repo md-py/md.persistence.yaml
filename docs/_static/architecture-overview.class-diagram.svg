@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="756px" preserveAspectRatio="none" style="width:1982px;height:756px;background:#FFFFFF;" version="1.1" viewBox="0 0 1982 756" width="1982px" zoomAndPan="magnify"><defs><filter height="300%" id="ftjx9e6bncftg" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[5e9a57a3377260e11f4c161d717e577e]
+cluster builtins--><polygon fill="#FFFFFF" filter="url(#ftjx9e6bncftg)" points="16,200.5,78,200.5,85,222.9883,156,222.9883,156,299.5,16,299.5,16,200.5" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="85" y1="222.9883" y2="222.9883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="56" x="20" y="216.0352">builtins</text><!--MD5=[9337302705db7c49fd58a3d6e23dcdae]
+cluster md.python.dict--><polygon fill="#FFFFFF" filter="url(#ftjx9e6bncftg)" points="1558,194,1670,194,1677,216.4883,1800,216.4883,1800,500,1558,500,1558,194" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1558" x2="1677" y1="216.4883" y2="216.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="106" x="1562" y="209.5352">md.python.dict</text><!--MD5=[e2d366466281fd4798d78288f9c6b5bb]
+cluster md.persistence--><polygon fill="#FFFFFF" filter="url(#ftjx9e6bncftg)" points="180,32,294,32,301,54.4883,1271,54.4883,1271,749,180,749,180,32" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="180" x2="301" y1="54.4883" y2="54.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="108" x="184" y="47.5352">md.persistence</text><!--MD5=[996c8b56ba28bea8611b414f340bb492]
+cluster md.persistence.yaml--><polygon fill="#FFFFFF" filter="url(#ftjx9e6bncftg)" points="1295,6,1447,6,1454,28.4883,1965,28.4883,1965,170,1295,170,1295,6" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1295" x2="1454" y1="28.4883" y2="28.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="146" x="1299" y="21.5352">md.persistence.yaml</text><!--MD5=[26afaa6943c9e0f56a262483a2ac1d31]
+class builtins.RuntimeError--><rect codeLine="11" fill="#EBEBEB" filter="url(#ftjx9e6bncftg)" height="48" id="builtins.RuntimeError" style="stroke:#000000;stroke-width:1.5;" width="108" x="32" y="235.5"/><ellipse cx="47" cy="251.5" fill="#FFA659" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><path d="M51.5107,258 L48.979,258 L46.6133,253.8994 L44.2559,258 L41.7241,258 L45.3599,251.708 L41.8237,245.6069 L44.3555,245.6069 L46.6133,249.5498 L48.8794,245.6069 L51.4111,245.6069 L47.8916,251.708 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="76" x="61" y="256.0352">RuntimeError</text><line style="stroke:#000000;stroke-width:1.5;" x1="33" x2="139" y1="267.5" y2="267.5"/><line style="stroke:#000000;stroke-width:1.5;" x1="33" x2="139" y1="275.5" y2="275.5"/><!--MD5=[ef59c8961336a9c238f152b2ab5602c1]
+class md.python.dict.MergeDictionaryInterface--><rect codeLine="15" fill="#EBEBEB" filter="url(#ftjx9e6bncftg)" height="60.9551" id="md.python.dict.MergeDictionaryInterface" style="stroke:#000000;stroke-width:1.5;" width="210" x="1574" y="229"/><ellipse cx="1604.75" cy="245" fill="#B4A7E5" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><path d="M1601.1777,241.2651 L1601.1777,239.1069 L1608.5571,239.1069 L1608.5571,241.2651 L1606.0918,241.2651 L1606.0918,249.3418 L1608.5571,249.3418 L1608.5571,251.5 L1601.1777,251.5 L1601.1777,249.3418 L1603.6431,249.3418 L1603.6431,241.2651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="143" x="1622.25" y="249.5352">MergeDictionaryInterface</text><line style="stroke:#000000;stroke-width:1.5;" x1="1575" x2="1783" y1="261" y2="261"/><line style="stroke:#000000;stroke-width:1.5;" x1="1575" x2="1783" y1="269" y2="269"/><ellipse cx="1585" cy="280" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="184" x="1594" y="283.6348">merge(left: dict, right: dict) -&gt; dict</text><!--MD5=[1e1409f3c08bda16584d4ca06ff65114]
+class md.python.dict.DefaultMergeDictionary--><rect codeLine="18" fill="#EBEBEB" filter="url(#ftjx9e6bncftg)" height="60.9551" id="md.python.dict.DefaultMergeDictionary" style="stroke:#000000;stroke-width:1.5;" width="210" x="1574" y="423"/><ellipse cx="1608.8" cy="439" fill="#ADD1B2" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><path d="M1611.2731,445.1431 Q1610.6921,445.4419 1610.0529,445.5913 Q1609.4138,445.7407 1608.7082,445.7407 Q1606.2014,445.7407 1604.8815,444.0889 Q1603.5617,442.437 1603.5617,439.3159 Q1603.5617,436.1865 1604.8815,434.5347 Q1606.2014,432.8828 1608.7082,432.8828 Q1609.4138,432.8828 1610.0612,433.0322 Q1610.7087,433.1816 1611.2731,433.4805 L1611.2731,436.2031 Q1610.6423,435.6221 1610.0488,435.3523 Q1609.4553,435.0825 1608.8244,435.0825 Q1607.4797,435.0825 1606.7949,436.1492 Q1606.1101,437.2158 1606.1101,439.3159 Q1606.1101,441.4077 1606.7949,442.4744 Q1607.4797,443.541 1608.8244,443.541 Q1609.4553,443.541 1610.0488,443.2712 Q1610.6423,443.0015 1611.2731,442.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="134" x="1627.2" y="443.5352">DefaultMergeDictionary</text><line style="stroke:#000000;stroke-width:1.5;" x1="1575" x2="1783" y1="455" y2="455"/><line style="stroke:#000000;stroke-width:1.5;" x1="1575" x2="1783" y1="463" y2="463"/><ellipse cx="1585" cy="474" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="184" x="1594" y="477.6348">merge(left: dict, right: dict) -&gt; dict</text><!--MD5=[5ac07c123e65d78bdf3727c1016af035]
+class md.persistence.LoadInterface--><rect codeLine="24" fill="#EBEBEB" filter="url(#ftjx9e6bncftg)" height="73.9102" id="md.persistence.LoadInterface" style="stroke:#000000;stroke-width:1.5;" width="268" x="987" y="416.5"/><ellipse cx="1077.75" cy="432.5" fill="#B4A7E5" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><path d="M1074.1777,428.7651 L1074.1777,426.6069 L1081.5571,426.6069 L1081.5571,428.7651 L1079.0918,428.7651 L1079.0918,436.8418 L1081.5571,436.8418 L1081.5571,439 L1074.1777,439 L1074.1777,436.8418 L1076.6431,436.8418 L1076.6431,428.7651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="78" x="1098.25" y="437.0352">LoadInterface</text><line style="stroke:#000000;stroke-width:1.5;" x1="988" x2="1254" y1="448.5" y2="448.5"/><line style="stroke:#000000;stroke-width:1.5;" x1="988" x2="1254" y1="456.5" y2="456.5"/><ellipse cx="998" cy="467.5" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="242" x="1007" y="471.1348">load(filename: str) -&gt; Tuple[Any, GraphType]</text><ellipse cx="998" cy="480.4551" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="168" x="1007" y="484.0898">supports(filename: str) -&gt; bool</text><!--MD5=[71085ccf787f53ad354713bca0532937]
+class md.persistence.DumpInterface--><rect codeLine="29" fill="#EBEBEB" filter="url(#ftjx9e6bncftg)" height="60.9551" id="md.persistence.DumpInterface" style="stroke:#000000;stroke-width:1.5;" width="236" x="216" y="229"/><ellipse cx="287.25" cy="245" fill="#B4A7E5" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><path d="M283.6777,241.2651 L283.6777,239.1069 L291.0571,239.1069 L291.0571,241.2651 L288.5918,241.2651 L288.5918,249.3418 L291.0571,249.3418 L291.0571,251.5 L283.6777,251.5 L283.6777,249.3418 L286.1431,249.3418 L286.1431,241.2651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="85" x="307.75" y="249.5352">DumpInterface</text><line style="stroke:#000000;stroke-width:1.5;" x1="217" x2="451" y1="261" y2="261"/><line style="stroke:#000000;stroke-width:1.5;" x1="217" x2="451" y1="269" y2="269"/><ellipse cx="227" cy="280" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="210" x="236" y="283.6348">dump(filename: str, data: Any) -&gt; None</text><!--MD5=[983a923389abf31ce4baa6d76e0ec0b6]
+class md.persistence.ImportInterface--><rect codeLine="33" fill="#EBEBEB" filter="url(#ftjx9e6bncftg)" height="60.9551" id="md.persistence.ImportInterface" style="stroke:#000000;stroke-width:1.5;" width="470" x="772" y="67"/><ellipse cx="958.75" cy="83" fill="#B4A7E5" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><path d="M955.1777,79.2651 L955.1777,77.1069 L962.5571,77.1069 L962.5571,79.2651 L960.0918,79.2651 L960.0918,87.3418 L962.5571,87.3418 L962.5571,89.5 L955.1777,89.5 L955.1777,87.3418 L957.6431,87.3418 L957.6431,79.2651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="88" x="979.25" y="87.5352">ImportInterface</text><line style="stroke:#000000;stroke-width:1.5;" x1="773" x2="1241" y1="99" y2="99"/><line style="stroke:#000000;stroke-width:1.5;" x1="773" x2="1241" y1="107" y2="107"/><ellipse cx="783" cy="118" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="444" x="792" y="121.6348">import_(content: dict, resource_list: List[Tuple[str, str]]) -&gt; Tuple[dict, GraphType]</text><!--MD5=[15d3ae565e311bf8f7602afd1de5bc36]
+class md.persistence.PersistenceExceptionInterface--><rect codeLine="37" fill="#EBEBEB" filter="url(#ftjx9e6bncftg)" height="48" id="md.persistence.PersistenceExceptionInterface" style="stroke:#000000;stroke-width:1.5;" width="203" x="487.5" y="235.5"/><ellipse cx="502.5" cy="251.5" fill="#B4A7E5" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><path d="M498.9277,247.7651 L498.9277,245.6069 L506.3071,245.6069 L506.3071,247.7651 L503.8418,247.7651 L503.8418,255.8418 L506.3071,255.8418 L506.3071,258 L498.9277,258 L498.9277,255.8418 L501.3931,255.8418 L501.3931,247.7651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="171" x="516.5" y="256.0352">PersistenceExceptionInterface</text><line style="stroke:#000000;stroke-width:1.5;" x1="488.5" x2="689.5" y1="267.5" y2="267.5"/><line style="stroke:#000000;stroke-width:1.5;" x1="488.5" x2="689.5" y1="275.5" y2="275.5"/><!--MD5=[9aa7fabd0ab29e2658ecfe38292ce9d4]
+class md.persistence.LoadException--><rect codeLine="38" fill="#EBEBEB" filter="url(#ftjx9e6bncftg)" height="128.7754" id="md.persistence.LoadException" style="stroke:#000000;stroke-width:1.5;" width="343" x="753.5" y="604"/><ellipse cx="878.75" cy="620" fill="#FFA659" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><path d="M883.2607,626.5 L880.729,626.5 L878.3633,622.3994 L876.0059,626.5 L873.4741,626.5 L877.1099,620.208 L873.5737,614.1069 L876.1055,614.1069 L878.3633,618.0498 L880.6294,614.1069 L883.1611,614.1069 L879.6416,620.208 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="84" x="899.25" y="624.5352">LoadException</text><line style="stroke:#000000;stroke-width:1.5;" x1="754.5" x2="1095.5" y1="636" y2="636"/><ellipse cx="764.5" cy="647" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="105" x="773.5" y="650.6348">IMPORT_ERROR = 1</text><line style="stroke:#000000;stroke-width:1.0;" x1="754.5" x2="1095.5" y1="656.9551" y2="656.9551"/><ellipse cx="764.5" cy="667.9551" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="68" x="773.5" y="671.5898">code: int = 0</text><ellipse cx="764.5" cy="680.9102" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="88" x="773.5" y="684.5449">path: str = None</text><line style="stroke:#000000;stroke-width:1.0;" x1="754.5" x2="1095.5" y1="690.8652" y2="690.8652"/><ellipse cx="764.5" cy="701.8652" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="317" x="773.5" y="705.5">as_import_error(path: str = None, *, **) -&gt; 'LoadException'</text><line style="stroke:#000000;stroke-width:1.0;" x1="754.5" x2="1095.5" y1="711.8203" y2="711.8203"/><ellipse cx="764.5" cy="722.8203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="287" x="773.5" y="726.4551">__init__(code: int = 0, path: str = None, *, **) -&gt; None</text><!--MD5=[9855994ee4a8c54581b04d8ca135ca5c]
+class md.persistence.DumpException--><rect codeLine="49" fill="#EBEBEB" filter="url(#ftjx9e6bncftg)" height="86.8652" id="md.persistence.DumpException" style="stroke:#000000;stroke-width:1.5;" width="313" x="196.5" y="410"/><ellipse cx="303.25" cy="426" fill="#FFA659" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><path d="M307.7607,432.5 L305.229,432.5 L302.8633,428.3994 L300.5059,432.5 L297.9741,432.5 L301.6099,426.208 L298.0737,420.1069 L300.6055,420.1069 L302.8633,424.0498 L305.1294,420.1069 L307.6611,420.1069 L304.1416,426.208 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="91" x="323.75" y="430.5352">DumpException</text><line style="stroke:#000000;stroke-width:1.5;" x1="197.5" x2="508.5" y1="442" y2="442"/><ellipse cx="207.5" cy="453" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="68" x="216.5" y="456.6348">code: int = 0</text><ellipse cx="207.5" cy="465.9551" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="88" x="216.5" y="469.5898">path: str = None</text><line style="stroke:#000000;stroke-width:1.0;" x1="197.5" x2="508.5" y1="475.9102" y2="475.9102"/><ellipse cx="207.5" cy="486.9102" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="287" x="216.5" y="490.5449">__init__(code: int = 0, path: str = None, *, **) -&gt; None</text><!--MD5=[af030ba6f0385abe7e318cde15116dee]
+class md.persistence.ImportException--><rect codeLine="56" fill="#EBEBEB" filter="url(#ftjx9e6bncftg)" height="180.5957" id="md.persistence.ImportException" style="stroke:#000000;stroke-width:1.5;" width="369" x="582.5" y="363"/><ellipse cx="715.75" cy="379" fill="#FFA659" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><path d="M720.2607,385.5 L717.729,385.5 L715.3633,381.3994 L713.0059,385.5 L710.4741,385.5 L714.1099,379.208 L710.5737,373.1069 L713.1055,373.1069 L715.3633,377.0498 L717.6294,373.1069 L720.1611,373.1069 L716.6416,379.208 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="94" x="736.25" y="383.5352">ImportException</text><line style="stroke:#000000;stroke-width:1.5;" x1="583.5" x2="950.5" y1="395" y2="395"/><ellipse cx="593.5" cy="406" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="87" x="602.5" y="409.6348">NOT_EXISTS = 1</text><ellipse cx="593.5" cy="418.9551" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="100" x="602.5" y="422.5898">MERGE_ERROR = 2</text><ellipse cx="593.5" cy="431.9102" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="126" x="602.5" y="435.5449">RECURSION_ERROR = 3</text><line style="stroke:#000000;stroke-width:1.0;" x1="583.5" x2="950.5" y1="441.8652" y2="441.8652"/><ellipse cx="593.5" cy="452.8652" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="313" x="602.5" y="456.5">as_not_exists(path: str = None, *, **) -&gt; 'ImportException'</text><ellipse cx="593.5" cy="465.8203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="291" x="602.5" y="469.4551">as_merge(path: str = None, *, **) -&gt; 'ImportException'</text><ellipse cx="593.5" cy="478.7754" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="343" x="602.5" y="482.4102">as_recursion_error(path: str = None, *, **) -&gt; 'ImportException'</text><line style="stroke:#000000;stroke-width:1.0;" x1="583.5" x2="950.5" y1="488.7305" y2="488.7305"/><ellipse cx="593.5" cy="499.7305" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="287" x="602.5" y="503.3652">__init__(code: int = 0, path: str = None, *, **) -&gt; None</text><line style="stroke:#000000;stroke-width:1.0;" x1="583.5" x2="950.5" y1="509.6855" y2="509.6855"/><ellipse cx="593.5" cy="520.6855" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="68" x="602.5" y="524.3203">code: int = 0</text><ellipse cx="593.5" cy="533.6406" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="88" x="602.5" y="537.2754">path: str = None</text><!--MD5=[c1b0d485fda3f72d8a976902fe367d5a]
+class md.persistence.DefaultImport--><rect codeLine="71" fill="#EBEBEB" filter="url(#ftjx9e6bncftg)" height="86.8652" id="md.persistence.DefaultImport" style="stroke:#000000;stroke-width:1.5;" width="471" x="783.5" y="216"/><ellipse cx="975.25" cy="232" fill="#ADD1B2" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><path d="M977.7231,238.1431 Q977.1421,238.4419 976.5029,238.5913 Q975.8638,238.7407 975.1582,238.7407 Q972.6514,238.7407 971.3315,237.0889 Q970.0117,235.437 970.0117,232.3159 Q970.0117,229.1865 971.3315,227.5347 Q972.6514,225.8828 975.1582,225.8828 Q975.8638,225.8828 976.5112,226.0322 Q977.1587,226.1816 977.7231,226.4805 L977.7231,229.2031 Q977.0923,228.6221 976.4988,228.3523 Q975.9053,228.0825 975.2744,228.0825 Q973.9297,228.0825 973.2449,229.1492 Q972.5601,230.2158 972.5601,232.3159 Q972.5601,234.4077 973.2449,235.4744 Q973.9297,236.541 975.2744,236.541 Q975.9053,236.541 976.4988,236.2712 Q977.0923,236.0015 977.7231,235.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="79" x="995.75" y="236.5352">DefaultImport</text><line style="stroke:#000000;stroke-width:1.5;" x1="784.5" x2="1253.5" y1="248" y2="248"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="791.5" y="256"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="102" x="803.5" y="262.6348">load: LoadInterface</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="791.5" y="268.9551"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="319" x="803.5" y="275.5898">merge_dictionary: md.python.dict.MergeDictionaryInterface</text><line style="stroke:#000000;stroke-width:1.0;" x1="784.5" x2="1253.5" y1="281.9102" y2="281.9102"/><ellipse cx="794.5" cy="292.9102" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="445" x="803.5" y="296.5449">import_(content: dict, resource_list: List[Tuple[str, str]]) -&gt; Tuple[Dict, GraphType]</text><!--MD5=[9fb2b077287c63fe95852a17bd08091c]
+class PyYamlLoad--><rect codeLine="90" fill="#EBEBEB" filter="url(#ftjx9e6bncftg)" height="112.7754" id="PyYamlLoad" style="stroke:#000000;stroke-width:1.5;" width="301" x="1647.5" y="41"/><ellipse cx="1759.25" cy="57" fill="#ADD1B2" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><path d="M1761.7231,63.1431 Q1761.1421,63.4419 1760.5029,63.5913 Q1759.8638,63.7407 1759.1582,63.7407 Q1756.6514,63.7407 1755.3315,62.0889 Q1754.0117,60.437 1754.0117,57.3159 Q1754.0117,54.1865 1755.3315,52.5347 Q1756.6514,50.8828 1759.1582,50.8828 Q1759.8638,50.8828 1760.5112,51.0322 Q1761.1587,51.1816 1761.7231,51.4805 L1761.7231,54.2031 Q1761.0923,53.6221 1760.4988,53.3523 Q1759.9053,53.0825 1759.2744,53.0825 Q1757.9297,53.0825 1757.2449,54.1492 Q1756.5601,55.2158 1756.5601,57.3159 Q1756.5601,59.4077 1757.2449,60.4744 Q1757.9297,61.541 1759.2744,61.541 Q1759.9053,61.541 1760.4988,61.2712 Q1761.0923,61.0015 1761.7231,60.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="1779.75" y="61.5352">PyYamlLoad</text><line style="stroke:#000000;stroke-width:1.5;" x1="1648.5" x2="1947.5" y1="73" y2="73"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1655.5" y="81"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="125" x="1667.5" y="87.6348">use_clean_import: bool</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1655.5" y="93.9551"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="122" x="1667.5" y="100.5898">use_dirty_import: bool</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1655.5" y="106.9102"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="216" x="1667.5" y="113.5449">import_: md.persistence.ImportInterface</text><line style="stroke:#000000;stroke-width:1.0;" x1="1648.5" x2="1947.5" y1="119.8652" y2="119.8652"/><ellipse cx="1658.5" cy="130.8652" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="168" x="1667.5" y="134.5">supports(filename: str) -&gt; bool</text><ellipse cx="1658.5" cy="143.8203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="275" x="1667.5" y="147.4551">load(filename: str) -&gt; Tuple[Any, Dict[str, List[str]]]</text><!--MD5=[18fc45a08bb8e4c1623dde5ce7258175]
+class StrictYamlLoad--><rect codeLine="99" fill="#EBEBEB" filter="url(#ftjx9e6bncftg)" height="112.7754" id="StrictYamlLoad" style="stroke:#000000;stroke-width:1.5;" width="301" x="1311.5" y="41"/><ellipse cx="1415.75" cy="57" fill="#ADD1B2" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><path d="M1418.2231,63.1431 Q1417.6421,63.4419 1417.0029,63.5913 Q1416.3638,63.7407 1415.6582,63.7407 Q1413.1514,63.7407 1411.8315,62.0889 Q1410.5117,60.437 1410.5117,57.3159 Q1410.5117,54.1865 1411.8315,52.5347 Q1413.1514,50.8828 1415.6582,50.8828 Q1416.3638,50.8828 1417.0112,51.0322 Q1417.6587,51.1816 1418.2231,51.4805 L1418.2231,54.2031 Q1417.5923,53.6221 1416.9988,53.3523 Q1416.4053,53.0825 1415.7744,53.0825 Q1414.4297,53.0825 1413.7449,54.1492 Q1413.0601,55.2158 1413.0601,57.3159 Q1413.0601,59.4077 1413.7449,60.4744 Q1414.4297,61.541 1415.7744,61.541 Q1416.4053,61.541 1416.9988,61.2712 Q1417.5923,61.0015 1418.2231,60.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="84" x="1436.25" y="61.5352">StrictYamlLoad</text><line style="stroke:#000000;stroke-width:1.5;" x1="1312.5" x2="1611.5" y1="73" y2="73"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1319.5" y="81"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="125" x="1331.5" y="87.6348">use_clean_import: bool</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1319.5" y="93.9551"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="122" x="1331.5" y="100.5898">use_dirty_import: bool</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1319.5" y="106.9102"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="216" x="1331.5" y="113.5449">import_: md.persistence.ImportInterface</text><line style="stroke:#000000;stroke-width:1.0;" x1="1312.5" x2="1611.5" y1="119.8652" y2="119.8652"/><ellipse cx="1322.5" cy="130.8652" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="168" x="1331.5" y="134.5">supports(filename: str) -&gt; bool</text><ellipse cx="1322.5" cy="143.8203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="275" x="1331.5" y="147.4551">load(filename: str) -&gt; Tuple[Any, Dict[str, List[str]]]</text><!--MD5=[192338535cc75ab9764030be631cfd75]
+reverse link md.python.dict.MergeDictionaryInterface to md.python.dict.DefaultMergeDictionary--><path d="M1679,310.24 C1679,310.24 1679,422.9 1679,422.9 " fill="none" id="md.python.dict.MergeDictionaryInterface-backto-md.python.dict.DefaultMergeDictionary" style="stroke:#333333;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1672,310.24,1679,290.24,1686,310.24,1672,310.24" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[6982c66aa9dc1e6bc575bfecd8a55cc5]
+reverse link builtins.RuntimeError to md.persistence.LoadException--><path d="M68,303.57 C68,303.57 68,690 68,690 C68,690 503.24,690 753.38,690 " fill="none" id="builtins.RuntimeError-backto-md.persistence.LoadException" style="stroke:#333333;stroke-width:1.0;"/><polygon fill="none" points="61,303.57,68,283.57,75,303.57,61,303.57" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[1cc2ac1ecbea7e6b00dc409053050fba]
+reverse link md.persistence.PersistenceExceptionInterface to md.persistence.LoadException--><path d="M546,303.74 C546,303.74 546,647 546,647 C546,647 652.96,647 753.24,647 " fill="none" id="md.persistence.PersistenceExceptionInterface-backto-md.persistence.LoadException" style="stroke:#333333;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="539,303.74,546,283.74,553,303.74,539,303.74" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[49cf1fec8abd63f6e4bb272b8d6b4617]
+reverse link builtins.RuntimeError to md.persistence.DumpException--><path d="M160.14,260 C160.14,260 206.25,260 206.25,260 C206.25,260 206.25,352.5 206.25,409.59 " fill="none" id="builtins.RuntimeError-backto-md.persistence.DumpException" style="stroke:#333333;stroke-width:1.0;"/><polygon fill="none" points="160.14,267,140.14,260,160.14,253,160.14,267" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[3c01c81d155a132f776bd9f9dbc6ffd7]
+reverse link md.persistence.PersistenceExceptionInterface to md.persistence.DumpException--><path d="M498.5,303.68 C498.5,303.68 498.5,409.76 498.5,409.76 " fill="none" id="md.persistence.PersistenceExceptionInterface-backto-md.persistence.DumpException" style="stroke:#333333;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="491.5,303.68,498.5,283.68,505.5,303.68,491.5,303.68" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[1f67cf4e1afbd5b02865474c594180ea]
+reverse link builtins.RuntimeError to md.persistence.ImportException--><path d="M104,303.78 C104,303.78 104,387 104,387 C104,387 386.14,387 582.32,387 " fill="none" id="builtins.RuntimeError-backto-md.persistence.ImportException" style="stroke:#333333;stroke-width:1.0;"/><polygon fill="none" points="97,303.78,104,283.78,111,303.78,97,303.78" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[81f5d10e336d622490b297ced9cda336]
+reverse link md.persistence.PersistenceExceptionInterface to md.persistence.ImportException--><path d="M636.5,303.68 C636.5,303.68 636.5,362.92 636.5,362.92 " fill="none" id="md.persistence.PersistenceExceptionInterface-backto-md.persistence.ImportException" style="stroke:#333333;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="629.5,303.68,636.5,283.68,643.5,303.68,629.5,303.68" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[7749a31990ff1975698425b6f6f03755]
+reverse link md.persistence.ImportInterface to md.persistence.DefaultImport--><path d="M936.33,148.35 C936.33,148.35 936.33,215.91 936.33,215.91 " fill="none" id="md.persistence.ImportInterface-backto-md.persistence.DefaultImport" style="stroke:#333333;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="929.33,148.35,936.33,128.35,943.33,148.35,929.33,148.35" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[a1a8d1e8de8c74eefd81a34fecc47f3b]
+link md.persistence.DefaultImport to md.persistence.LoadInterface--><path codeLine="78" d="M1076.17,315.04 C1076.17,315.04 1076.17,403.31 1076.17,403.31 " fill="none" id="md.persistence.DefaultImport-md.persistence.LoadInterface" style="stroke:#333333;stroke-width:1.0;"/><polygon fill="#333333" points="1076.17,416.31,1080.17,407.31,1076.17,411.31,1072.17,407.31,1076.17,416.31" style="stroke:#333333;stroke-width:1.0;"/><line style="stroke:#333333;stroke-width:1.0;" x1="1076.17" x2="1076.17" y1="411.31" y2="403.31"/><polygon fill="#333333" points="1076.17,303.04,1072.17,309.04,1076.17,315.04,1080.17,309.04,1076.17,303.04" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[0bf5b1cf26c1e12581970c92ce7e6a56]
+link md.persistence.DefaultImport to md.python.dict.MergeDictionaryInterface--><path codeLine="81" d="M1266.95,260 C1266.95,260 1560.88,260 1560.88,260 " fill="none" id="md.persistence.DefaultImport-md.python.dict.MergeDictionaryInterface" style="stroke:#333333;stroke-width:1.0;"/><polygon fill="#333333" points="1573.88,260,1564.88,256,1568.88,260,1564.88,264,1573.88,260" style="stroke:#333333;stroke-width:1.0;"/><line style="stroke:#333333;stroke-width:1.0;" x1="1568.88" x2="1560.88" y1="260" y2="260"/><polygon fill="#333333" points="1254.95,260,1260.95,264,1266.95,260,1260.95,256,1254.95,260" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[9f7eb6b17b4a32af3753d00deb73fd89]
+link md.persistence.LoadInterface to md.persistence.LoadException--><path codeLine="83" d="M1041.75,490.95 C1041.75,521.99 1041.75,566.83 1041.75,603.68 " fill="none" id="md.persistence.LoadInterface-md.persistence.LoadException" style="stroke:#333333;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="994.75,543.9753,997.6889,534.9302,991.8111,534.9302,994.75,543.9753" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="1003.75" y="543.8884">raises</text><!--MD5=[ced5c5815858cf1d29f27f0ef4908a70]
+link md.persistence.DumpInterface to md.persistence.DumpException--><path codeLine="84" d="M334,290.24 C334,322.51 334,373.51 334,409.92 " fill="none" id="md.persistence.DumpInterface-md.persistence.DumpException" style="stroke:#333333;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="287,346.7353,289.9389,337.6902,284.0611,337.6902,287,346.7353" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="296" y="346.6484">raises</text><!--MD5=[2d6cf1f28a7cdc9c267e915078847a42]
+link md.persistence.ImportInterface to md.persistence.ImportException--><path codeLine="85" d="M777.75,128.16 C777.75,179.77 777.75,285.9 777.75,362.94 " fill="none" id="md.persistence.ImportInterface-md.persistence.ImportException" style="stroke:#333333;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="730.75,242.2053,733.6889,233.1602,727.8111,233.1602,730.75,242.2053" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="739.75" y="242.1184">raises</text><!--MD5=[12e69299544df89559b2ef90891f9a78]
+link md.persistence.ImportException to md.persistence.LoadException--><path codeLine="86" d="M852.5,544.06 C852.5,564.14 852.5,585.03 852.5,603.83 " fill="none" id="md.persistence.ImportException-md.persistence.LoadException" style="stroke:#333333;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="809.5,570.6053,812.4389,561.5602,806.5611,561.5602,809.5,570.6053" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="33" x="818.5" y="570.5184">leads</text><!--MD5=[c9222a43d3bfe5ed18c8579ab7aafc1f]
+reverse link md.persistence.LoadInterface to PyYamlLoad--><path d="M1165.33,396.36 C1165.33,396.36 1165.33,333 1165.33,333 C1165.33,333 1838.83,333 1838.83,333 C1838.83,333 1838.83,223.89 1838.83,154.21 " fill="none" id="md.persistence.LoadInterface-backto-PyYamlLoad" style="stroke:#333333;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1172.33,396.36,1165.33,416.36,1158.33,396.36,1172.33,396.36" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[7d40cdca839af5a38cbc73dc349fa88d]
+reverse link md.persistence.LoadInterface to StrictYamlLoad--><path d="M1275.11,454 C1275.11,454 1399,454 1399,454 C1399,454 1399,255.03 1399,154.38 " fill="none" id="md.persistence.LoadInterface-backto-StrictYamlLoad" style="stroke:#333333;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1275.11,461,1255.11,454,1275.11,447,1275.11,461" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[bc17c65c47cc1a06049bd12f730b5cd6]
+link PyYamlLoad to md.persistence.LoadException--><path codeLine="108" d="M1893.67,154.04 C1893.67,302.14 1893.67,690 1893.67,690 C1893.67,690 1374.73,690 1096.5,690 " fill="none" id="PyYamlLoad-md.persistence.LoadException" style="stroke:#333333;stroke-width:1.0;"/><polygon fill="#000000" points="1711.9106,684.445,1721.0567,681.8373,1717.7771,676.9594,1711.9106,684.445" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="1725.06" y="686.5684">raises</text><!--MD5=[047ebe86c280e57645f1218a7daf39b1]
+link StrictYamlLoad to md.persistence.LoadException--><path codeLine="109" d="M1486.5,154.24 C1486.5,294.63 1486.5,647 1486.5,647 C1486.5,647 1261.65,647 1096.52,647 " fill="none" id="StrictYamlLoad-md.persistence.LoadException" style="stroke:#333333;stroke-width:1.0;"/><polygon fill="#000000" points="1436.3971,591.186,1444.3148,585.9172,1439.7058,582.2695,1436.3971,591.186" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="1448.5" y="592.1784">raises</text><!--MD5=[6b975af0cd5354ebfa3fcd0fe1b97344]
+link StrictYamlLoad to md.persistence.ImportInterface--><path codeLine="110" d="M1299.44,98 C1299.44,98 1255.34,98 1255.34,98 " fill="none" id="StrictYamlLoad-md.persistence.ImportInterface" style="stroke:#333333;stroke-width:1.0;"/><polygon fill="#333333" points="1242.34,98,1251.34,102,1247.34,98,1251.34,94,1242.34,98" style="stroke:#333333;stroke-width:1.0;"/><line style="stroke:#333333;stroke-width:1.0;" x1="1247.34" x2="1255.34" y1="98" y2="98"/><polygon fill="#333333" points="1311.44,98,1305.44,94,1299.44,98,1305.44,102,1311.44,98" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[4dab2cd7d1ca1dbca36daf4c0256f0b4]
+link PyYamlLoad to md.persistence.ImportInterface--><path codeLine="111" d="M1715.75,166.4 C1715.75,166.4 1715.75,185 1715.75,185 C1715.75,185 1089.17,185 1089.17,185 C1089.17,185 1089.17,141.1 1089.17,141.1 " fill="none" id="PyYamlLoad-md.persistence.ImportInterface" style="stroke:#333333;stroke-width:1.0;"/><polygon fill="#333333" points="1089.17,128.1,1085.17,137.1,1089.17,133.1,1093.17,137.1,1089.17,128.1" style="stroke:#333333;stroke-width:1.0;"/><line style="stroke:#333333;stroke-width:1.0;" x1="1089.17" x2="1089.17" y1="133.1" y2="141.1"/><polygon fill="#333333" points="1715.75,154.4,1711.75,160.4,1715.75,166.4,1719.75,160.4,1715.75,154.4" style="stroke:#333333;stroke-width:1.0;"/><!--MD5=[d35d0c403caa8180f7e1dfc2bf1a310c]
+@startuml
+
+skinparam class {
+  BackgroundColor #ebebeb
+  ArrowColor      #333
+  BorderColor     #000
+}
+
+skinparam lineType ortho
+
+package builtins {
+  class builtins.RuntimeError <<(X,#FFA659)>> {}
+}
+
+namespace md.python.dict {
+  interface MergeDictionaryInterface {
+    + merge(left: dict, right: dict) -> dict
+  }
+  class DefaultMergeDictionary implements MergeDictionaryInterface {
+    + merge(left: dict, right: dict) -> dict
+  }
+}
+
+namespace md.persistence {
+  interface LoadInterface {
+    + load(filename: str) -> Tuple[Any, GraphType]
+    + supports(filename: str) -> bool
+  }
+
+  interface DumpInterface {
+    + dump(filename: str, data: Any) -> None
+  }
+
+  interface ImportInterface {
+    + import_(content: dict, resource_list: List[Tuple[str, str]]) -> Tuple[dict, GraphType]
+  }
+
+  interface PersistenceExceptionInterface {}
+  class LoadException <<(X,#FFA659)>> extends builtins.RuntimeError implements PersistenceExceptionInterface {
+    + {static} IMPORT_ERROR = 1
+    - - -
+    + code: int = 0
+    + path: str = None
+    - - -
+    + {static} as_import_error(path: str = None, *, **) -> 'LoadException'
+    - - -
+    + __init__(code: int = 0, path: str = None, *, **) -> None
+  }
+
+  class DumpException <<(X,#FFA659)>> extends builtins.RuntimeError implements PersistenceExceptionInterface {
+    + code: int = 0
+    + path: str = None
+    - - -
+    + __init__(code: int = 0, path: str = None, *, **) -> None
+  }
+
+  class ImportException <<(X,#FFA659)>> extends builtins.RuntimeError implements PersistenceExceptionInterface {
+    + {static} NOT_EXISTS = 1
+    + {static} MERGE_ERROR = 2
+    + {static} RECURSION_ERROR = 3
+    - - -
+    + {static} as_not_exists(path: str = None, *, **) -> 'ImportException'
+    + {static} as_merge(path: str = None, *, **) -> 'ImportException'
+    + {static} as_recursion_error(path: str = None, *, **) -> 'ImportException'
+    - - -
+    + __init__(code: int = 0, path: str = None, *, **) -> None
+    - - -
+    + code: int = 0
+    + path: str = None
+  }
+
+  class DefaultImport implements ImportInterface {
+    - load: LoadInterface
+    - merge_dictionary: md.python.dict.MergeDictionaryInterface
+    - - -
+    + import_(content: dict, resource_list: List[Tuple[str, str]]) -> Tuple[Dict, GraphType]
+  }
+
+  DefaultImport *- -> LoadInterface
+'  LoadInterface *- -> ImportInterface
+
+  DefaultImport *-> md.python.dict.MergeDictionaryInterface
+
+  LoadInterface .. LoadException : "raises >"
+  DumpInterface .. DumpException : "raises >"
+  ImportInterface .. ImportException : "raises >"
+  ImportException .. LoadException : "leads >"
+}
+
+package md.persistence.yaml {
+  class PyYamlLoad implements md.persistence.LoadInterface {
+    - use_clean_import: bool
+    - use_dirty_import: bool
+    - import_: md.persistence.ImportInterface
+    - - -
+    + supports(filename: str) -> bool
+    + load(filename: str) -> Tuple[Any, Dict[str, List[str]]]
+  }
+
+  class StrictYamlLoad implements md.persistence.LoadInterface {
+    - use_clean_import: bool
+    - use_dirty_import: bool
+    - import_: md.persistence.ImportInterface
+    - - -
+    + supports(filename: str) -> bool
+    + load(filename: str) -> Tuple[Any, Dict[str, List[str]]]
+  }
+
+  PyYamlLoad - - - - md.persistence.LoadException : "raises >"
+  StrictYamlLoad - - - - md.persistence.LoadException : "raises >"
+  StrictYamlLoad *- - -> md.persistence.ImportInterface
+  PyYamlLoad *- - -> md.persistence.ImportInterface
+}
+
+@enduml
+
+@startuml
+
+skinparam class {
+  BackgroundColor #ebebeb
+  ArrowColor      #333
+  BorderColor     #000
+}
+
+skinparam lineType ortho
+
+package builtins {
+  class builtins.RuntimeError <<(X,#FFA659)>> {}
+}
+
+namespace md.python.dict {
+  interface MergeDictionaryInterface {
+    + merge(left: dict, right: dict) -> dict
+  }
+  class DefaultMergeDictionary implements MergeDictionaryInterface {
+    + merge(left: dict, right: dict) -> dict
+  }
+}
+
+namespace md.persistence {
+  interface LoadInterface {
+    + load(filename: str) -> Tuple[Any, GraphType]
+    + supports(filename: str) -> bool
+  }
+
+  interface DumpInterface {
+    + dump(filename: str, data: Any) -> None
+  }
+
+  interface ImportInterface {
+    + import_(content: dict, resource_list: List[Tuple[str, str]]) -> Tuple[dict, GraphType]
+  }
+
+  interface PersistenceExceptionInterface {}
+  class LoadException <<(X,#FFA659)>> extends builtins.RuntimeError implements PersistenceExceptionInterface {
+    + {static} IMPORT_ERROR = 1
+    - - -
+    + code: int = 0
+    + path: str = None
+    - - -
+    + {static} as_import_error(path: str = None, *, **) -> 'LoadException'
+    - - -
+    + __init__(code: int = 0, path: str = None, *, **) -> None
+  }
+
+  class DumpException <<(X,#FFA659)>> extends builtins.RuntimeError implements PersistenceExceptionInterface {
+    + code: int = 0
+    + path: str = None
+    - - -
+    + __init__(code: int = 0, path: str = None, *, **) -> None
+  }
+
+  class ImportException <<(X,#FFA659)>> extends builtins.RuntimeError implements PersistenceExceptionInterface {
+    + {static} NOT_EXISTS = 1
+    + {static} MERGE_ERROR = 2
+    + {static} RECURSION_ERROR = 3
+    - - -
+    + {static} as_not_exists(path: str = None, *, **) -> 'ImportException'
+    + {static} as_merge(path: str = None, *, **) -> 'ImportException'
+    + {static} as_recursion_error(path: str = None, *, **) -> 'ImportException'
+    - - -
+    + __init__(code: int = 0, path: str = None, *, **) -> None
+    - - -
+    + code: int = 0
+    + path: str = None
+  }
+
+  class DefaultImport implements ImportInterface {
+    - load: LoadInterface
+    - merge_dictionary: md.python.dict.MergeDictionaryInterface
+    - - -
+    + import_(content: dict, resource_list: List[Tuple[str, str]]) -> Tuple[Dict, GraphType]
+  }
+
+  DefaultImport *- -> LoadInterface
+
+  DefaultImport *-> md.python.dict.MergeDictionaryInterface
+
+  LoadInterface .. LoadException : "raises >"
+  DumpInterface .. DumpException : "raises >"
+  ImportInterface .. ImportException : "raises >"
+  ImportException .. LoadException : "leads >"
+}
+
+package md.persistence.yaml {
+  class PyYamlLoad implements md.persistence.LoadInterface {
+    - use_clean_import: bool
+    - use_dirty_import: bool
+    - import_: md.persistence.ImportInterface
+    - - -
+    + supports(filename: str) -> bool
+    + load(filename: str) -> Tuple[Any, Dict[str, List[str]]]
+  }
+
+  class StrictYamlLoad implements md.persistence.LoadInterface {
+    - use_clean_import: bool
+    - use_dirty_import: bool
+    - import_: md.persistence.ImportInterface
+    - - -
+    + supports(filename: str) -> bool
+    + load(filename: str) -> Tuple[Any, Dict[str, List[str]]]
+  }
+
+  PyYamlLoad - - - - md.persistence.LoadException : "raises >"
+  StrictYamlLoad - - - - md.persistence.LoadException : "raises >"
+  StrictYamlLoad *- - -> md.persistence.ImportInterface
+  PyYamlLoad *- - -> md.persistence.ImportInterface
+}
+
+@enduml
+
+PlantUML version 1.2022.0(Tue Jan 11 19:16:42 MSK 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>
